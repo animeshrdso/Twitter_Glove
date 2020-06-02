@@ -8,6 +8,8 @@ The positive/negative classification of the twitter feedbacks for products.
 * Glove
 * TSNE(For mapping the features in high-dimensions to 2-D )
 * SMOTE(For synthetic generation of feature vectors)
+# Data:
+I used the data from analytics vidya for the twitter sentiment analysis.
 # About:
 Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helping a business to understand the social sentiment of their brand, product or service while monitoring online conversations. Brands can use this data to measure the success of their products in an objective manner. Here I tried to predict the sentiments of the customers on electronic products.
 * First I tried to clean and pre-process the feedback lines in the dataset and tokenized the words.
